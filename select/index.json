@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "AFTER LIFE",
+  "base_artist": "UVERworld",
+  "createdAt": "2025-12-23T06:39:48.797029Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "After Life",
+      "artist": "Dan Bull",
+      "has_synced": true,
+      "path": "select/01_After_Life_Dan_Bull.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "After Life",
+      "artist": "Molly Nilsson",
+      "has_synced": false,
+      "path": "select/02_After_Life_Molly_Nilsson.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Atomic Moog 2000 (Post Nuclear After life Lounge Mix)",
+      "artist": "Coldcut",
+      "has_synced": false,
+      "path": "select/03_Atomic_Moog_2000_(Post_Nuclear_After_life_Lounge_Mix)_Coldcut.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Life After Life",
+      "artist": "The Pains of Being Pure At Heart",
+      "has_synced": true,
+      "path": "select/04_Life_After_Life_The_Pains_of_Being_Pure_At_Heart.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "After Life After Party",
+      "artist": "Jacques Greene",
+      "has_synced": false,
+      "path": "select/05_After_Life_After_Party_Jacques_Greene.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The (After) Life Of The Party",
+      "artist": "Fall Out Boy",
+      "has_synced": true,
+      "path": "select/06_The_(After)_Life_Of_The_Party_Fall_Out_Boy.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "After Life",
+      "artist": "Crobot",
+      "has_synced": true,
+      "path": "select/07_After_Life_Crobot.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "AFTER LIFE",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/08_AFTER_LIFE_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The (After) Life Of The Party (Album Version)",
+      "artist": "Fall Out Boy",
+      "has_synced": true,
+      "path": "select/09_The_(After)_Life_Of_The_Party_(Album_Version)_Fall_Out_Boy.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "After Life",
+      "artist": "BAND-MAID",
+      "has_synced": true,
+      "path": "select/10_After_Life_BAND-MAID.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "AFTER LIFE",
+      "artist": "AAAMYYY",
+      "has_synced": true,
+      "path": "select/11_AFTER_LIFE_AAAMYYY.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "After Life",
+      "artist": "Ashe",
+      "has_synced": true,
+      "path": "select/12_After_Life_Ashe.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "After Life",
+      "artist": "BAND‐MAID",
+      "has_synced": true,
+      "path": "select/13_After_Life_BAND‐MAID.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Life After Life",
+      "artist": "Frank Wildhorn feat. Jeremy Roberts, James Barbour & Lauren Kennedy",
+      "has_synced": true,
+      "path": "select/14_Life_After_Life_Frank_Wildhorn_feat._Jeremy_Roberts,_James_Barbour_&_Lauren_Kennedy.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Life After Life (feat. James Barbour & Lauren Kennedy)",
+      "artist": "Frank Wildhorn & Jeremy Roberts",
+      "has_synced": true,
+      "path": "select/15_Life_After_Life_(feat._James_Barbour_&_Lauren_Kennedy)_Frank_Wildhorn_&_Jeremy_Roberts.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "After Life (instrumental)",
+      "artist": "BAND‐MAID",
+      "has_synced": true,
+      "path": "select/16_After_Life_(instrumental)_BAND‐MAID.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "AFTER LIFE",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/pl_01_AFTER_LIFE_UVERworld.txt"
+    }
+  ]
+}
